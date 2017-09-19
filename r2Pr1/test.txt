@@ -1,0 +1,13 @@
+3 6
+ww g
+wg g
+gw w
+gg w
+gwg
+*
+3 4
+ww w
+wg w
+gw g
+gg g
+ggw*
